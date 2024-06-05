@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Masterhead](https://furkatherrytaha.github.io/assets/images/threeJS/l2.png)
+![Masterhead](https://i.ebayimg.com/images/g/U6kAAOSwxI1mWzlc/s-l500.png)
 <h1 align="center">Hi 👋, I'm Ananya Mesta</h1>
 <h3 align="center">A passionate frontend developer from India</h3
 <img align="right" alt="coding" width="400" src=https://tse4.mm.bing.net/th?id=OIP.sl7nYjNIfPCoDuKqmWVi9gHaFj&pid=Api&P=0&h=180
