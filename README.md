@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Masterhead](https://static.vecteezy.com/system/resources/previews/002/099/443/non_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg)
+![Masterhead](https://furkatherrytaha.github.io/assets/images/threeJS/l2.png)
 <h1 align="center">Hi 👋, I'm Ananya Mesta</h1>
 <h3 align="center">A passionate frontend developer from India</h3
 <img align="right" alt="coding" width="400" src=https://tse4.mm.bing.net/th?id=OIP.sl7nYjNIfPCoDuKqmWVi9gHaFj&pid=Api&P=0&h=180
