@@ -1,44 +1,108 @@
-## Hi there 👋
+# Hi, I'm Ananya Mesta 👋
 
-<!--
-**AnanyaMesta02/AnanyaMesta02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science (Data Science) undergraduate with strong foundations in Python, data analysis, and problem-solving.  
+I focus on building practical projects that combine data handling, analysis, and application development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Masterhead](https://tse2.mm.bing.net/th?id=OIP.XSkuIVMupYV1Mc24sBgGNwHaGK&pid=Api&P=0&h=180)
-<h1 align="center">Hi 👋, I'm Ananya Mesta</h1>
-<h3 align="center">A passionate frontend developer from India</h3
-<img align="right" alt="coding" width="400" src=https://tse4.mm.bing.net/th?id=OIP.sl7nYjNIfPCoDuKqmWVi9gHaFj&pid=Api&P=0&h=180
+## 👩‍🎓 About Me
+- 🎓 B.E. in Computer Science (Data Science) — *Alva’s Institute of Engineering and Technology*
+- 📊 Strong interest in **Data Science, Analytics, and Applied Programming**
+- 🛠 Experience with academic and personal projects involving data, web applications, and problem-solving
+- 🌱 Currently improving skills in **data analysis, visualization, and full project workflows**
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyamesta02&label=Profile%20views&color=0e75b6&style=flat" alt="ananyamesta02" /> </p>
+## 🛠 Technical Skills
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+**Programming Languages**
+- Python, SQL, C
 
-- 🌱 I’m currently learning **React Native**
+**Data Analysis & Visualization**
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Tableau
 
-- 📫 How to reach me **ananyamesta@gmail.com**
+**Tools & Platforms**
+- Jupyter Notebook  
+- Google Colab  
+- Git & GitHub  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🚀 Projects
+
+### 📝 To-Do Notebook Web App
+A date-based notebook application with user authentication and persistent storage.
+
+**Key Features**
+- User registration and login (client-side)
+- Date-wise notes management
+- Add, edit, delete, and mark notes as completed
+- Table-based UI for structured viewing
+- Data persistence using localStorage
+
+🔗 Repository:  
+[To-Do Notebook Web App](https://github.com/AnanyaMesta02/todo-notebook)
+
+---
+
+### 🤖 Mental Health Chatbot
+- Real-time chatbot focused on emotional well-being  
+- Interactive UI with health-related responses  
+- Designed for supportive and conversational interaction
+- 🔗 Repository:  
+- [Mental health chatbot](https://github.com/AnanyaMesta02/mental-health-chabot.git)
+
+---
+
+### ❤️ Charity Management System (Mini Project)
+- PHP & MySQL web application  
+- Donor and donation management  
+- Admin and user login system  
+- Donation tracking and beneficiary requests
+🔗 Repository: 
+- [Charity management webapp](https://github.com/AnanyaMesta02/charity_management_system.git)
+
+---
+
+## 💼 Experience & Activities
+
+**Jagruthi – Mental Health App (BACCE Foundation)**  
+*Project Contributor (2023 – 2025)*  
+- Developed features for mental wellness and emergency support  
+- Worked on health tracking and UI improvements  
+- Collaborated on monitoring modules and data integration
+
+**Pragathi – Placement Program, Alvas (2024)**  
+*Volunteer*  
+- Assisted in resume reviews and mock interviews  
+- Supported placement coordination and student guidance  
+- Contributed to event execution through teamwork
+
+---
+
+## 🏆 Achievements & Certifications
+- 🥇 **NVIDIA Techvers – 1st Prize**  
+  *Real-time People Counter using Jetson Nano*
+- **Google Cloud Data Analytics** – Certified  
+- **Prompt Engineering** – AI prompt design training  
+- **Data Structures & Algorithms** – Infosys Springboard
+
+---
+
+## 📊 GitHub Stats
 <p align="left">
-<a href="https://linkedin.com/in/ananya mesta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya mesta" height="30" width="40" /></a>
-<a href="https://instagram.com/a_mesta002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_mesta002" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnanyaMesta02&show_icons=true&hide_title=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyamesta02&show_icons=true&locale=en&layout=compact" alt="ananyamesta02" /></p>
+## 📫 Contact
+- 📍 Mangaluru, India  
+- 📧 Email: **ananyamesta186@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/ananya-mesta](https://www.linkedin.com/in/ananya-mesta)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyamesta02&show_icons=true&locale=en" alt="ananyamesta02" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyamesta02&" alt="ananyamesta02" /></p>
+⭐ *This profile is actively updated as I continue building projects and strengthening my data science skills.*
