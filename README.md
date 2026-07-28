@@ -243,13 +243,7 @@ I'm particularly interested in opportunities where I can work on **real-world Da
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnanyaMesta02&show_icons=true&hide_title=true" />
-</p>
-
----
 
 # 🔗 Connect With Me
 
